@@ -1,0 +1,6 @@
+AudioEmotion.py
+setup.py
+Audio_Emotion_Predicter.egg-info/PKG-INFO
+Audio_Emotion_Predicter.egg-info/SOURCES.txt
+Audio_Emotion_Predicter.egg-info/dependency_links.txt
+Audio_Emotion_Predicter.egg-info/top_level.txt
